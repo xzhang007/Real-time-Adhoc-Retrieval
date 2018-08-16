@@ -1,0 +1,557 @@
+<parameters>
+	<index>../termProject/output</index>
+	<count>100</count>
+	<trecFormat>true</trecFormat>
+
+	<query>
+		<type>indri</type>
+		<number>1</number>
+<text>#filreq(#less(requested_id 34952194402811904) #combine(BBC World Service staff cuts))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>2</number>
+<text>#filreq(#less(requested_id 35048150574039040) #combine(2022 FIFA soccer ))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>3</number>
+<text>#filreq(#less(requested_id 35088534306033665) #combine(Haiti Aristide return))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>4</number>
+<text>#filreq(#less(requested_id 32851298193768448) #combine(Mexico drug war))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>5</number>
+<text>#filreq(#less(requested_id 33581589627666432) #combine(NIST computer security))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>6</number>
+<text>#filreq(#less(requested_id 35005178885181441) #combine(NSA ))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>7</number>
+<text>#filreq(#less(requested_id 35109758973255680) #combine(Pakistan diplomat arrest murder))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>8</number>
+<text>#filreq(#less(requested_id 34668458591395840) #combine(phone hacking British politicians))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>9</number>
+<text>#filreq(#less(requested_id 35090855064764416) #combine(Toyota Recall))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>10</number>
+<text>#filreq(#less(requested_id 31443107291598848) #combine(Egyptian protesters attack museum))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>11</number>
+<text>#filreq(#less(requested_id 34199299428581376) #combine(Kubica crash))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>12</number>
+<text>#filreq(#less(requested_id 32181966761631744) #combine(Assange Nobel peace nomination))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>13</number>
+<text>#filreq(#less(requested_id 29565006546735104) #combine(Oprah Winfrey half-sister))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>14</number>
+<text>#filreq(#less(requested_id 32778015167479808) #combine(release of #1(The Rite)))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>15</number>
+<text>#filreq(#less(requested_id 31688182005235712) #combine(Thorpe return in 2012 Olympics))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>16</number>
+<text>#filreq(#less(requested_id 29585186899365888) #combine(release of #1(Known and Unknown) rumsfeld))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>17</number>
+<text>#filreq(#less(requested_id 32879343399084032) #combine(White Stripes breakup ))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>18</number>
+<text>#filreq(#less(requested_id 30188073790742528) #combine(William and Kate fax save-the-date))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>19</number>
+<text>#filreq(#less(requested_id 34754540519563264) #combine(Cuomo budget cuts))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>20</number>
+<text>#filreq(#less(requested_id 34146608102772736) #combine(Taco Bell filling lawsuit))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>21</number>
+<text>#filreq(#less(requested_id 31185639047172097) #combine(Emanuel residency court rulings))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>22</number>
+<text>#filreq(#less(requested_id 32563233118224385) #combine(healthcare law unconstitutional ))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>23</number>
+<text>#filreq(#less(requested_id 35066441501900800) #combine(Amtrak train service))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>24</number>
+<text>#filreq(#less(requested_id 35022813232373760) #combine(Super Bowl seats))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>25</number>
+<text>#filreq(#less(requested_id 33251413001764864) #combine(TSA airport screening))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>26</number>
+<text>#filreq(#less(requested_id 33527910379814912) #combine(US unemployment))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>27</number>
+<text>#filreq(#less(requested_id 33379210437337088) #combine(reduce energy consumption))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>28</number>
+<text>#filreq(#less(requested_id 30396111764066304) #combine(Detroit Auto Show))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>29</number>
+<text>#filreq(#less(requested_id 34779934836785152) #combine(global warming and weather ))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>30</number>
+<text>#filreq(#less(requested_id 35108366829232128) #combine(Keith Olbermann new job))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>31</number>
+<text>#filreq(#less(requested_id 33445664922800129) #combine(Special Olympics athletes))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>32</number>
+<text>#filreq(#less(requested_id 33346093525762048) #combine(State of the Union  and jobs))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>33</number>
+<text>#filreq(#less(requested_id 30708594202648576) #combine(Dog Whisperer Cesar Millan techniques))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>34</number>
+<text>#filreq(#less(requested_id 33656631187210241) #combine(MSNBC Rachel Maddow))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>35</number>
+<text>#filreq(#less(requested_id 29437816727404544) #combine(Sargent Shriver tributes))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>36</number>
+<text>#filreq(#less(requested_id 29674954899333120) #combine(Moscow airport bombing))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>37</number>
+<text>#filreq(#less(requested_id 33224462191038464) #combine(Giffords recovery))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>38</number>
+<text>#filreq(#less(requested_id 32419560749531136) #combine(protests in Jordan))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>39</number>
+<text>#filreq(#less(requested_id 31052423128686592) #combine(Egyptian curfew))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>40</number>
+<text>#filreq(#less(requested_id 32174687102435328) #combine(Beck attacks Piven))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>41</number>
+<text>#filreq(#less(requested_id 32134993337647104) #combine(Obama birth certificate))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>42</number>
+<text>#filreq(#less(requested_id 34714824982134784) #combine(Holland Iran envoy recall))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>43</number>
+<text>#filreq(#less(requested_id 31261786745339904) #combine(Kucinich olive pit lawsuit))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>44</number>
+<text>#filreq(#less(requested_id 30982361281728512) #combine(White House spokesman replaced))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>45</number>
+<text>#filreq(#less(requested_id 32421023961841667) #combine(political campaigns and social media))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>46</number>
+<text>#filreq(#less(requested_id 35104330025541632) #combine(Bottega Veneta))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>47</number>
+<text>#filreq(#less(requested_id 34766556445540352) #combine(organic farming requirements))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>48</number>
+<text>#filreq(#less(requested_id 32009428471386112) #combine(Egyptian evacuation))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>49</number>
+<text>#filreq(#less(requested_id 32569981321347074) #combine(carbon monoxide law))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>50</number>
+<text>#filreq(#less(requested_id 29723425576587264) #combine(war prisoners Hatch Act))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>51</number>
+<text>#filreq(#less(requested_id 35124912364457984) #combine(British Government cuts))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>52</number>
+<text>#filreq(#less(requested_id 33199275462627328) #combine(Bedbug epidemic))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>53</number>
+<text>#filreq(#less(requested_id 35123660406657024) #combine(river boat cruises))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>54</number>
+<text>#filreq(#less(requested_id 34836253874593792) #combine(The Daily))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>55</number>
+<text>#filreq(#less(requested_id 34782005925249024) #combine(berries and weight loss ))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>56</number>
+<text>#filreq(#less(requested_id 33375478505013248) #combine(Hugo Chavez))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>57</number>
+<text>#filreq(#less(requested_id 32919462151720960) #combine(Chicago blizzard))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>58</number>
+<text>#filreq(#less(requested_id 35043166813949952) #combine(FDA approval of drugs))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>59</number>
+<text>#filreq(#less(requested_id 35012866822119424) #combine(Glen Beck))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>60</number>
+<text>#filreq(#less(requested_id 34436767029399552) #combine(fishing guidebooks))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>61</number>
+<text>#filreq(#less(requested_id 34695232985645056) #combine(Hu Jintao visit to the United States))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>62</number>
+<text>#filreq(#less(requested_id 35111217613766657) #combine(Starbucks Trenta cup))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>63</number>
+<text>#filreq(#less(requested_id 33986811273420800) #combine(Bieber and Stewart trading places))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>64</number>
+<text>#filreq(#less(requested_id 35002593419726848) #combine(red light cameras))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>65</number>
+<text>#filreq(#less(requested_id 34438945404092416) #combine(Michelle Obama obesity campaign))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>66</number>
+<text>#filreq(#less(requested_id 33684239400566784) #combine(Journalists treatment in Egypt))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>67</number>
+<text>#filreq(#less(requested_id 34414281218859008) #combine(Boston Celtics championship))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>68</number>
+<text>#filreq(#less(requested_id 32532358276063232) #combine(Charlie Sheen rehab))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>69</number>
+<text>#filreq(#less(requested_id 35073980729802752) #combine(high taxes ))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>70</number>
+<text>#filreq(#less(requested_id 34729342210678784) #combine(farmers markets opinions))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>71</number>
+<text>#filreq(#less(requested_id 31692185296441344) #combine(Australian Open Djokovic vs. Murray))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>72</number>
+<text>#filreq(#less(requested_id 32187009527193600) #combine(Kardashians opinions))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>73</number>
+<text>#filreq(#less(requested_id 33505508052701184) #combine(Iran nuclear program))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>74</number>
+<text>#filreq(#less(requested_id 34509105032859648) #combine(credit card debt))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>75</number>
+<text>#filreq(#less(requested_id 35094611483426816) #combine(Aguilera super bowl fail))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>76</number>
+<text>#filreq(#less(requested_id 34922941233762304) #combine(Celebrity DUI violations))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>77</number>
+<text>#filreq(#less(requested_id 34580405671698432) #combine(NCIS))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>78</number>
+<text>#filreq(#less(requested_id 35066972253192192) #combine(McDonalds food ))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>79</number>
+<text>#filreq(#less(requested_id 33616636950880256) #combine(Saleh Yemen overthrow))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>80</number>
+<text>#filreq(#less(requested_id 35067092726185984) #combine(Chipotle raid))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>81</number>
+<text>#filreq(#less(requested_id 34846177434275840) #combine(smartphone success))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>82</number>
+<text>#filreq(#less(requested_id 33190436147306496) #combine(illegal immigrant laws))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>83</number>
+<text>#filreq(#less(requested_id 34913594311311361) #combine(Stuxnet Worm effects))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>84</number>
+<text>#filreq(#less(requested_id 35060229741744128) #combine(Athlete concussions))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>85</number>
+<text>#filreq(#less(requested_id 34764832553041920) #combine(#1(Best Buy) improve sales))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>86</number>
+<text>#filreq(#less(requested_id 32075949373652992) #combine(Joanna Yeates murder))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>87</number>
+<text>#filreq(#less(requested_id 35114725998215168) #combine(chicken recipes ))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>88</number>
+<text>#filreq(#less(requested_id 34775520600129536) #combine(Kings Speech awards))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>89</number>
+<text>#filreq(#less(requested_id 32987948139941888) #combine(Supreme Court cases))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>90</number>
+<text>#filreq(#less(requested_id 34921291089711104) #combine(anti-bullying ))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>91</number>
+<text>#filreq(#less(requested_id 31492039682039808) #combine(Michelle Obama fashion))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>92</number>
+<text>#filreq(#less(requested_id 34780760116305920) #combine(stock market tutorial))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>93</number>
+<text>#filreq(#less(requested_id 34936026753404928) #combine(#1(fashion week) in #syn(NYC #1(new york))))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>94</number>
+<text>#filreq(#less(requested_id 34971360627261440) #combine(horse race betting))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>95</number>
+<text>#filreq(#less(requested_id 35092866069962752) #combine(Facebook privacy))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>96</number>
+<text>#filreq(#less(requested_id 31146959217631232) #combine(Sundance attendees))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>97</number>
+<text>#filreq(#less(requested_id 35100296694861824) #combine(college student aid))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>98</number>
+<text>#filreq(#less(requested_id 34856175732264960) #combine(Australian floods))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>99</number>
+<text>#filreq(#less(requested_id 35105993557807104) #combine(Superbowl commercials))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>100</number>
+<text>#filreq(#less(requested_id 34737748464115712) #syn(#1(Republican National Committee) rnc))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>101</number>
+<text>#filreq(#less(requested_id 35017330933108736) #combine(Natalie Portman in #1(Black Swan)))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>102</number>
+<text>#filreq(#less(requested_id 35051942250020864) #combine(school lunches))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>103</number>
+<text>#filreq(#less(requested_id 34763068797886464) #combine(Tea Party caucus))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>104</number>
+<text>#filreq(#less(requested_id 34637550534529026) #combine(texting and driving))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>105</number>
+<text>#filreq(#less(requested_id 34803471081275392) #combine(The Avengers))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>106</number>
+<text>#filreq(#less(requested_id 34915635595059201) #combine(Steve Jobs health))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>107</number>
+<text>#filreq(#less(requested_id 34941706969288704) #combine(Somalian piracy))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>108</number>
+<text>#filreq(#less(requested_id 33823828090036224) #combine(identity theft protection))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>109</number>
+<text>#filreq(#less(requested_id 34390055866859520) #combine(Gasland))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>110</number>
+<text>#filreq(#less(requested_id 34838554811043840) #combine(economic trade sanctions))</text>
+	</query>
+
+</parameters>

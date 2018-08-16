@@ -1,0 +1,22 @@
+Stuxnet Worm Attack on Iranian Nuclear Facilities
+
+Michael Holloway
+July 16, 2015
+
+Submitted as coursework for PH241, Stanford University, Winter 2015
+
+Stuxnet Background
+
+ 
+Fig. 1: This is a diagram of the connection between the Siemens Step7 software and the programmable logic controllers of a nuclear reactor. (Source: Wikimedia Commons)
+The Stuxnet Worm first emerged during the summer of 2010. Stuxnet was a 500-kilobyte computer worm that infiltrated numerous computer systems. [1] This virus operated in three steps. First, it analyzed and targeted Windows networks and computer systems. The worm, having infiltrated these machines, began to continually replicate itself. [1] Next, the machine infiltrated the Windows-based Siemens Step7 software. This Siemens software system was and continues to be prevalent in industrial computing networks, such as nuclear enrichment facilities. Lastly, by compromising the Step7 software, the worm gained access to the industrial program logic controllers. [1] This connection is illustrated in Fig. 1. This final step gave the worm's creators access to crucial industrial information as well as giving them the ability to operate various machinery at the individual industrial sites. [2] The replication process previously discussed is what made the worm so prevalent. It was so invasive that if a USB was plugged into an effected system, the worm would infiltrate the USB device and spread to any subsequent computing systems that the USB was plugged in to. [2]
+
+Stuxnet Effect on Iran
+
+Over fifteen Iranian facilities were attacked and infiltrated by the Stuxnet worm. It is believed that this attack was initiated by a random worker's USB drive. One of the affected industrial facilities was the Natanz nuclear facility. [1] The fist signs that an issue existed in the nuclear facility's computer system in 2010. Inspectors from the International Atomic Energy Agency visited the Natanz facility and observed that a strange number of uranium enriching centrifuges were breaking. [3] The cause of these failures was unknown at the time. Later in 2010, Iran technicians contracted computer security specialists in Belarus to examine their computer systems. [3] This security firm eventually discovered multiple malicious files on the Iranian computer systems. It has subsequently revealed that these malicious files were the Stuxnet worm. [3] Although Iran has not released specific details regarding the effects of the attack, it is currently estimated that the Stuxnet worm destroyed 984 uranium enriching centrifuges. By current estimations this constituded a 30% decrease in enrichment efficiency. [1]
+
+Stuxnet Worm Origin Speculation
+
+Many media members have speculated on who designed the Stuxnet worm and who was responsible for using it to essentially attack Iran's nuclear facility. It is currently agreed upon that this worm was designed as a cyber weapon to attack the development of Iran's nuclear development program. [1] However, the designers of the worm are still unknown. [4] Many experts suggest that the Stuxnet worm attack on the Iranian nuclear facilities was a joint operation between the United States and Israel. Edward Snowden, the NSA whistleblower, said that this was the case in 2013. [4] Despite this speculation, there is still no concrete evidence as to who designed the original cyber weapon.
+
+© Michael Holloway. The author grants permission to copy, distribute and display this work in unaltered form, with attribution to the author, for noncommercial purposes only. All other rights, including commercial rights, are reserved to the author.

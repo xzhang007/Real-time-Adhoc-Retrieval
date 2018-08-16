@@ -1,0 +1,557 @@
+<parameters>
+	<index>../termProject/output</index>
+	<count>100</count>
+	<trecFormat>true</trecFormat>
+
+	<query>
+		<type>indri</type>
+		<number>1</number>
+<text>#filreq(#less(requested_id 34952194402811904) #combine(BBC World Service staff cuts rename savage online entire 11zu 12283356 eogje g56bum gkaxe hv0vd9 said foreign language week began))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>2</number>
+<text>#filreq(#less(requested_id 35048150574039040) #combine(2022 FIFA soccer  uefa qatar epl mls football cup world chelsea gd stadium qatar cup world host worker))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>3</number>
+<text>#filreq(#less(requested_id 35088534306033665) #combine(Haiti Aristide return president ex allow bertrand duvalier democratic america jean politics 2011217025580425 coup election africa government president))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>4</number>
+<text>#filreq(#less(requested_id 32851298193768448) #combine(Mexico drug war catapult border 4vxd9bc 926417 bordersource editorialopinion enrnoo f2kjff fxp1ur h2jyli cartel government states their united))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>5</number>
+<text>#filreq(#less(requested_id 33581589627666432) #combine(NIST computer security unte rodei 131a 8vgt94 dkkwyg ejvopv fgglz gckmy2 ladycat40 littlemissnist standard our system cybersecur develop))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>6</number>
+<text>#filreq(#less(requested_id 35005178885181441) #combine(NSA  apple eavkx4 eyyfrel gk2u7l hfxbj keikamara nyahhaha rvikqd sicherheitsdirektor tradeyergunsforsword security agency data intelligence edit))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>7</number>
+<text>#filreq(#less(requested_id 35109758973255680) #combine(Pakistan diplomat arrest murder lahore bbc charged two court double kill block hand america davis official men diplomatic report))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>8</number>
+<text>#filreq(#less(requested_id 34668458591395840) #combine(phone hacking British politicians prime minister gordon brown former 1b3rop 2mtg9 4d4221177edca5c4 929093 gcer5e world investigate police evidence july))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>9</number>
+<text>#filreq(#less(requested_id 35090855064764416) #combine(Toyota Recall lexu car cotf model involve concern fuel worldwide 245000 ehm1mb 2010 pedal vehicle acceleration driver))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>10</number>
+<text>#filreq(#less(requested_id 31443107291598848) #combine(Egyptian protesters attack museum jan25 ndp fire protect jazeera prayer al cairo 3u6gvc desvoyeur loot damage tomb ancient artifact))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>11</number>
+<text>#filreq(#less(requested_id 34199299428581376) #combine(Kubica crash))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>12</number>
+<text>#filreq(#less(requested_id 32181966761631744) #combine(Assange Nobel peace nomination))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>13</number>
+<text>#filreq(#less(requested_id 29565006546735104) #combine(Oprah Winfrey half-sister secret family prompt reveal buzz exist 49nyext ae4b3 e9tchk eigua3 mother patricia said vernita embrace))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>14</number>
+<text>#filreq(#less(requested_id 32778015167479808) #combine(release of #1(The Rite) hopkins anthony box office take top soapoperasource 15m baglio e6efoe michael father exorcism film luca))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>15</number>
+<text>#filreq(#less(requested_id 31688182005235712) #combine(Thorpe return in 2012 Olympics))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>16</number>
+<text>#filreq(#less(requested_id 29585186899365888) #combine(release of #1(Known and Unknown)  press writing deyyala veta diahgl e6ztho f0m0s gvfdv1 gylri4 r9z7fggs rumsfeld bush president we know))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>17</number>
+<text>#filreq(#less(requested_id 32879343399084032) #combine(White Stripes breakup  zebra gabry777 splitsville black cjmc2r forgetex h4ijn9 tripoutonme undergreatnorthernlight orchid band jack meg dead last))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>18</number>
+<text>#filreq(#less(requested_id 30188073790742528) #combine(William and Kate fax save-the-date))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>19</number>
+<text>#filreq(#less(requested_id 34754540519563264) #combine(Cuomo budget cuts spend medicaid gov andrew 132 propose nyti 23_1be98382c2 cuomo_exposes_dirty_trick_drgwu2qvc7wnpgorxawzzm dglenp mr state spend said medicaid))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>20</number>
+<text>#filreq(#less(requested_id 34146608102772736) #combine(Taco Bell filling lawsuit beef advertising campaign fight launch fig meat push grist 5742413 beef mile product percent call))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>21</number>
+<text>#filreq(#less(requested_id 31185639047172097) #combine(Emanuel residency court rulings rahm ballot supreme illinois mayor chicago appellate run keeps rule chicago decision mayor supreme appellate))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>22</number>
+<text>#filreq(#less(requested_id 32563233118224385) #combine(healthcare law unconstitutional  judge florida federal rule obama declare breakingnew parts president 4umv9nh health insurance congress mandate power))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>23</number>
+<text>#filreq(#less(requested_id 35066441501900800) #combine(Amtrak train service suspend albany temporary nyc due 3tymkg 8c1i64 curryalley dhrygc hka passenger railroad rail route york))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>24</number>
+<text>#filreq(#less(requested_id 35022813232373760) #combine(Super Bowl seats))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>25</number>
+<text>#filreq(#less(requested_id 33251413001764864) #combine(TSA airport screening hartsfield private jackson security 1b8iqo 3vkhd3 e7oo6n e8nw0s evhgom g0ioxl said program private screen government))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>26</number>
+<text>#filreq(#less(requested_id 33527910379814912) #combine(US unemployment benefit december rate nmpro azui percent 475 4jh25fz diok1e dja3si job rate labor employment million))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>27</number>
+<text>#filreq(#less(requested_id 33379210437337088) #combine(reduce energy consumption stress 32964626 4pm3xwq circulationbooster deprssion dk3loz dvlxr5 dvxm7f ecgir1 eemsn office computer home light lights))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>28</number>
+<text>#filreq(#less(requested_id 30396111764066304) #combine(Detroit Auto Show precinct gunman 3hose 4trcyu9 dwjyr fnbfvk fsp7yk gfy57r hvevng terrybean 2011 2012 expect ford product))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>29</number>
+<text>#filreq(#less(requested_id 34779934836785152) #combine(global warming and weather  freezing fbvu3r fxyw8 giou8r ha9omy hladky zawal andreapetkovic alarmist celciu more extreme impact allergy climate))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>30</number>
+<text>#filreq(#less(requested_id 35108366829232128) #combine(Keith Olbermann new job))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>31</number>
+<text>#filreq(#less(requested_id 33445664922800129) #combine(Special Olympics athletes winter medal silver games 3nylp edtjgd fwzhkg gy5gvx hb5zmu miskireport 2011 summer games tennis world))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>32</number>
+<text>#filreq(#less(requested_id 33346093525762048) #combine(State of the Union  and jobs address president 2011 1b0htt 1b3a3c e7hcy0 fpyvo0 goty8s hw4ikd hzga02 obama president address party 2011))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>33</number>
+<text>#filreq(#less(requested_id 30708594202648576) #combine(Dog Whisperer Cesar Millan techniques gabriel_cesar akesta deliaviloriat dfmxsh dzq8xt josefajram pingeric santi_millan sblgp didaclee behavior dogs positive training study))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>34</number>
+<text>#filreq(#less(requested_id 33656631187210241) #combine(MSNBC Rachel Maddow fake cnn satire theblaze 9h6xu5 eyvar8 mushioda psychicinfection imu russo show host 2008 2009 america))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>35</number>
+<text>#filreq(#less(requested_id 29437816727404544) #combine(Sargent Shriver tributes bono funeral idealism mourner sarge hansard peace optimist u2 corps our people poverty justice we))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>36</number>
+<text>#filreq(#less(requested_id 29674954899333120) #combine(Moscow airport bombing suicide kill least injure blast russia afp 31 terrorist busiest russia president attack domodedovo 10))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>37</number>
+<text>#filreq(#less(requested_id 33224462191038464) #combine(Giffords recovery doctor gabrielle rep rocky road face days week come sprint arizona representative state house january))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>38</number>
+<text>#filreq(#less(requested_id 32419560749531136) #combine(protests in Jordan thousand step egypt yemen demanding govt demand 1xarhs dz0wxu ehabz 1 cent per accused brotherhood))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>39</number>
+<text>#filreq(#less(requested_id 31052423128686592) #combine(Egyptian curfew cairo suez alexandria mubarak jan25 president entire ejvpiv gbh0tp protestsinegypt law time age united children))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>40</number>
+<text>#filreq(#less(requested_id 32174687102435328) #combine(Beck attacks Piven fox frances jeremy cyru glenn miley incite tcot nazi eil5sa mr said ms fox people))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>41</number>
+<text>#filreq(#less(requested_id 32134993337647104) #combine(Obama birth certificate hawaii abercrombie governor gov 254401 4t5f2px 4t6y233 apolgist dtaaz fyodxk birther born state hawaii president))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>42</number>
+<text>#filreq(#less(requested_id 34714824982134784) #combine(Holland Iran envoy recall hang detain woman foreign ministry unrest election obama mubarak dwbwyy bahrami burial government sahra tehran))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>43</number>
+<text>#filreq(#less(requested_id 31261786745339904) #combine(Kucinich olive pit lawsuit cafeteria sue dennis rep ridiculist ac360 sandwich 150 10p 000 tooth bone dental man america))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>44</number>
+<text>#filreq(#less(requested_id 30982361281728512) #combine(White House spokesman replaced carney secretary gibb press jay robert biden 3lxj3 brittnithetruth eqtx60 carney press president obama secretary))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>45</number>
+<text>#filreq(#less(requested_id 32421023961841667) #combine(political campaigns and social media america network 22 2010 online feedburner feed utm_content newmediaphotographer twitter network site group online adult))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>46</number>
+<text>#filreq(#less(requested_id 35104330025541632) #combine(Bottega Veneta vuitton chloe chanel gucci louis 134075 1b3b23 338592 cxwrg gf0oqo company spring fall artisan leather))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>47</number>
+<text>#filreq(#less(requested_id 34766556445540352) #combine(organic farming requirements food rppc 3089 dmzomy ebgjsm foodweb fsh9ed fxrtba gs3v7f hplf7l))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>48</number>
+<text>#filreq(#less(requested_id 32009428471386112) #combine(Egyptian evacuation amid afp america begin travel thousand warning howell 110128058 dx7akm flight said america cairo charter))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>49</number>
+<text>#filreq(#less(requested_id 32569981321347074) #combine(carbon monoxide law))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>50</number>
+<text>#filreq(#less(requested_id 29723425576587264) #combine(war prisoners Hatch Act))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>51</number>
+<text>#filreq(#less(requested_id 35124912364457984) #combine(British Government cuts cnndcl1 f69lfs frqfzv gsii1d gv3rag ik2o6e howsafeisawillintheuk mactrast bradleymann inheritance osborne uk economy growth deficit))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>52</number>
+<text>#filreq(#less(requested_id 33199275462627328) #combine(Bedbug epidemic crisis scienceblog conventhoe frx3s h3ozxl hotelbedbug imafraid its_an_epidemic_1 mrmp3 bedbugbgon bug bed we one bite))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>53</number>
+<text>#filreq(#less(requested_id 35123660406657024) #combine(river boat cruises))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>54</number>
+<text>#filreq(#less(requested_id 34836253874593792) #combine(The Daily murdoch rupert 2011 mash azeroth 01 launch officially 27 feb show stewart comedy correspondent host))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>55</number>
+<text>#filreq(#less(requested_id 34782005925249024) #combine(berries and weight loss ))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>56</number>
+<text>#filreq(#less(requested_id 33375478505013248) #combine(Hugo Chavez venezuela arkell dqjfzt equivocadamente fanfarron h8tp2xuj hn1e3m josenilsonmato leurticant pemim ch vez venezuela military government))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>57</number>
+<text>#filreq(#less(requested_id 32919462151720960) #combine(Chicago blizzard warning bcb 2011 3vb93q fbnhup gyno5ahy hmj5o2 hrdfr9 spotlight212 timesxemail storm snow state february city))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>58</number>
+<text>#filreq(#less(requested_id 35043166813949952) #combine(FDA approval of drugs))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>59</number>
+<text>#filreq(#less(requested_id 35012866822119424) #combine(Glen Beck emzcxl glennthrush mostannoyingtvpeople teapartynew bill interesting gerrydee unionize elana_brooklyn coco america glenn 2010 show 2009))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>60</number>
+<text>#filreq(#less(requested_id 34436767029399552) #combine(fishing guidebooks brytec walleye 1m2 ditojv ekrnyb eqb5h9 fsta g25vnj hobaak nyq9vgzo 2011 trout edition limit pdf))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>61</number>
+<text>#filreq(#less(requested_id 34695232985645056) #combine(Hu Jintao visit to the United States china obama diplomat beije meet president 3sajbd 9842 blabbeando bourde china beije trip human mr))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>62</number>
+<text>#filreq(#less(requested_id 35111217613766657) #combine(Starbucks Trenta cup perqu 3t1lby 3vdkrx 3vkx3x draaaaank excessisjustmycharacter illa0804 olerell vuitante x8p1cunps0 our ice more size tea))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>63</number>
+<text>#filreq(#less(requested_id 33986811273420800) #combine(Bieber and Stewart trading places))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>64</number>
+<text>#filreq(#less(requested_id 35002593419726848) #combine(red light cameras study fatal crash cut helping driver find depot traffic 4vctoqa driver yellow intersection study traffic))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>65</number>
+<text>#filreq(#less(requested_id 34438945404092416) #combine(Michelle Obama obesity campaign oprah lady hialeah childhood perangi military first army obesita duuqwz healthy let move school activity))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>66</number>
+<text>#filreq(#less(requested_id 33684239400566784) #combine(Journalists treatment in Egypt))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>67</number>
+<text>#filreq(#less(requested_id 34414281218859008) #combine(Boston Celtics championship lake nba boston_celtic bostonnbaonline dozbkc fmz0hd h4z4ou nbablognoticia vuelven los nba team season games draft))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>68</number>
+<text>#filreq(#less(requested_id 32532358276063232) #combine(Charlie Sheen rehab tmz home three file affec dtq5cr f3dfrd fcxdmr fvng9 hsaykq award actor film himself two))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>69</number>
+<text>#filreq(#less(requested_id 35073980729802752) #combine(high taxes  increase evansolomoncbc fosyfi gcfzcn gwl2sk p1ggrd richest1 warmist amberherself stephenrinaldo))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>70</number>
+<text>#filreq(#less(requested_id 34729342210678784) #combine(farmers markets opinions kisco chappaqua 50tx 8f5m9 bistroessential blossombluffo curtiskorn gwhk5v holdingranch jandmfarm))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>71</number>
+<text>#filreq(#less(requested_id 31692185296441344) #combine(Australian Open Djokovic vs. Murray federer novak roger h1lohk 2011 beat tennis stream 27278650 6l3aw set final break first title))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>72</number>
+<text>#filreq(#less(requested_id 32187009527193600) #combine(Kardashians opinions kim magazine nude silver w feathery award 321408 4d47044c758a73b0 6z55gcz))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>73</number>
+<text>#filreq(#less(requested_id 33505508052701184) #combine(Iran nuclear program talks weapon nucle 2012 baradei powers britain ahmadinejad 2008jan08 4d461355a262a5d5 iaea enrich report uranium weapon))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>74</number>
+<text>#filreq(#less(requested_id 34509105032859648) #combine(credit card debt consolidate relief gudwxa advice 45ohhpk 4c5uhrh 4qgqs2a 4uzh236 g6xyan h6ty4t late consumer bankruptcy company pay))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>75</number>
+<text>#filreq(#less(requested_id 35094611483426816) #combine(Aguilera super bowl fail))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>76</number>
+<text>#filreq(#less(requested_id 34922941233762304) #combine(Celebrity DUI violations))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>77</number>
+<text>#filreq(#less(requested_id 34580405671698432) #combine(NCIS ncis_cbs syndaelin 8x14 krnxxiiittha walk eqlomb hdxvw i9ipqs ncisfanatic neneknyaart season agent viewer million show))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>78</number>
+<text>#filreq(#less(requested_id 35066972253192192) #combine(McDonalds food  favorite firtfc g99eav china ej_dundee mettle costs colonel sander mocha nutrition meal choice happy children))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>79</number>
+<text>#filreq(#less(requested_id 33616636950880256) #combine(Saleh Yemen overthrow abdullah lorent_saleh ali oust tunisia demand president abdurachman dslx dzcnvy protest said 2 politics al))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>80</number>
+<text>#filreq(#less(requested_id 35067092726185984) #combine(Chipotle raid))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>81</number>
+<text>#filreq(#less(requested_id 34846177434275840) #combine(smartphone success android htc gadgetdream operate gesichtet nokia 1b3hge e0z04f gc5eip gondnp phone company carrier galaxy sony))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>82</number>
+<text>#filreq(#less(requested_id 33190436147306496) #combine(illegal immigrant laws 1b8b60 3ug67r 4ecomv5 fjrphn fnfxh gd1zn3 hd1v8m hwjrzu deem acton immigrate states united mexico border))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>83</number>
+<text>#filreq(#less(requested_id 34913594311311361) #combine(Stuxnet Worm effects iran chern causar hvyg4d bil podr hptx cyberevent douuup fld30m iran 1 nuclear system attack))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>84</number>
+<text>#filreq(#less(requested_id 35060229741744128) #combine(Athlete concussions teen multiple risk raise health adaffin en2so eunoie gn6kfa h1tb4b law national district student legislation))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>85</number>
+<text>#filreq(#less(requested_id 34764832553041920) #combine(Best Buy improve sales store ct25664bc1067 feiss cheap chandelier 27683429 3l6md 46ygqvk 4kht3x7 ehmz7o comparable store percent revenue result))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>86</number>
+<text>#filreq(#less(requested_id 32075949373652992) #combine(Joanna Yeates murder tabak vincent charged jo suspect accused court due dutchman 32 tabak investigate police december bristol))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>87</number>
+<text>#filreq(#less(requested_id 35114725998215168) #combine(chicken recipes  cutlet cooking easy 3n1gd 3n1he 4u3g7h3 barbecueparty duvvkp eavgbi fbng7))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>88</number>
+<text>#filreq(#less(requested_id 34775520600129536) #combine(Kings Speech awards king sag guild win actor best boardwalk trophy empire 2m6cy best film actor won colin))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>89</number>
+<text>#filreq(#less(requested_id 32987948139941888) #combine(Supreme Court cases berendsen 3nx5k 4pz abajournal e9rr9ide f8ys39 ge2exr gvw2j6 hwv6n9 saxe opinion term september july june))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>90</number>
+<text>#filreq(#less(requested_id 34921291089711104) #combine(anti-bullying  teen 110127058 gw9kml ksje nwjut7kqhi4 harassment nj 20110127 program thu 2011 direct info 1 4))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>91</number>
+<text>#filreq(#less(requested_id 31492039682039808) #combine(Michelle Obama fashion oprah perangi obesita _hollyywood blackmagpie69 epxicz fhi2iq flfw fotane gd1ds6 dress mrs coat first lady))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>92</number>
+<text>#filreq(#less(requested_id 34780760116305920) #combine(stock market tutorial dtn invest trade 4dlgkxu dkovxh fyjbjo gq4r67 hebwmr hg7kuw hglegk trade offer offices people trader))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>93</number>
+<text>#filreq(#less(requested_id 34936026753404928) #combine(fashion week in NYC york 15040521 300miles 3jlhe aaliyah_maria giddylittleboy gpz4mf runwayink xap1d592k9 yoren designer show held their york))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>94</number>
+<text>#filreq(#less(requested_id 34971360627261440) #combine(horse race betting 72195 doggedtimcc eujfj8 kashubia kashubian kaszebsko racehorse szlopa icharlieb juliotaylor 1 2 4 pick wager))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>95</number>
+<text>#filreq(#less(requested_id 35092866069962752) #combine(Facebook privacy erode germany security tighten millennio reach deal cassandra 1az79q 3078856 other account advertising care connect))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>96</number>
+<text>#filreq(#less(requested_id 31146959217631232) #combine(Sundance attendees tia0302 nabj 1b0gho 4noqma3 72179339 absolutesimplic dtdingle hoe1ki minimalexpense nrsp festival film utah hollywood independent))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>97</number>
+<text>#filreq(#less(requested_id 35100296694861824) #combine(college student aid financial loan education alexandrakeller bnk4sddp chelslovecali countryass doedq fm8xoc fsmp6 report benefit different federal fund))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>98</number>
+<text>#filreq(#less(requested_id 34856175732264960) #combine(Australian floods roar toward cyclone tropical idppha msnbc north queensland strong propose queensland river brisbane january people))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>99</number>
+<text>#filreq(#less(requested_id 35105993557807104) #combine(Superbowl commercials brandonesparza7 dfv7kd fms6uh ghiysd supercede predecessor sportsnation brisk lipton beadle super bowl 2011 trailer movie))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>100</number>
+<text>#filreq(#less(requested_id 34737748464115712) #combine(Republican National Committee rnc debt priebu million chairman 23 wapo alfredonavarro74 eaecu7 ecoddu round rnc candidate chairman withdrew))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>101</number>
+<text>#filreq(#less(requested_id 35017330933108736) #combine(Natalie Portman in #1(Black Swan) actress sagaward fashionweeknyc motion win haunting f6raug f9kol2 michelledavies1 sawaward film nina ballet dance aronofsky))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>102</number>
+<text>#filreq(#less(requested_id 35051942250020864) #combine(school lunches kut azibachtiar hantunakal healthyrecipesandnutritional lily_coke mie_211 graciepancake liapinkan sholat bore standard meal fat kid milk))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>103</number>
+<text>#filreq(#less(requested_id 34763068797886464) #combine(Tea Party caucus scalia senate tcot rubio tlot speak justice address politics 1b0rbj tx 6 member 5 2))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>104</number>
+<text>#filreq(#less(requested_id 34637550534529026) #combine(texting and driving dangerous downstairs shits walking idillionaire problem 4jwdpc7 _madhatter21 sofie intoxicate phone cell driver accident car))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>105</number>
+<text>#filreq(#less(requested_id 34803471081275392) #combine(The Avengers sevenfold basico 143000499082324 fduo5z forexavengerreview gjaln rachacuca_ rockstarcake mileyismine nne_delz marvel film studio man iron))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>106</number>
+<text>#filreq(#less(requested_id 34915635595059201) #combine(Steve Jobs health apple zitat 4qblnqy fmkrad fo5hcj foovbk gyesyc i9gjnv yevgr reaffirm cancer said transplant apple liver))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>107</number>
+<text>#filreq(#less(requested_id 34941706969288704) #combine(Somalian piracy tamagopurinn _somali_ 27050924 2scey2 423263 businesstime etwdqw fdqqk frpmw idhorh pirate ship unknown mv attack))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>108</number>
+<text>#filreq(#less(requested_id 33823828090036224) #combine(identity theft protection cost abdulrehman avumud gtovdf hnaimk husoki spears_m zgoeq itv informatio))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>109</number>
+<text>#filreq(#less(requested_id 34390055866859520) #combine(Gasland oscar gas 0ubrtz 3ndh2 djmzf6 ehrdp6 gazier gckdw0 dishonest fundamentally film gas fox documentary water))</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>110</number>
+<text>#filreq(#less(requested_id 34838554811043840) #combine(economic trade sanctions belaru toughen widen expert policy development leader 13843 46lzanu 4lu64at import country tariff united example))</text>
+	</query>
+
+</parameters>
